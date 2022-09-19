@@ -1,2 +1,0 @@
-VARIABLES = "X","Y","u"
-ZONE I=101,J=101,F=POINT
